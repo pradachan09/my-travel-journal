@@ -13,5 +13,5 @@ Head over to https://vitejs.dev/ to learn more about using vite
 
 this project is made using html, css, and js
 
-#Project made with React 18.02 
-##At Scrimba
+# Project made with React 18.02 
+## At Scrimba
